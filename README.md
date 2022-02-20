@@ -5,7 +5,7 @@ I am performing data exploration on covid cases within European countries as wel
 The aim was to show usage of JOINS, CTEs, Nested queries and Temporary tables and thus, the analysis doesn’t tell a specific story :-) 
 
 
-## **Lambda by day**
+## **Lambda**
 
 Lambda by day is a real case project in which I aimed to explore daily changes in lambda (see below).
 
